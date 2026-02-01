@@ -1,1 +1,1 @@
-print("dominion-core INSERT")
+print("dominion-core UPDATE")
